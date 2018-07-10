@@ -1,0 +1,26 @@
+Placa: portal V3.1
+
+Items:
+
+
+1 - abertura
+1.1 - receber sinal do rádio
+1.2 - decodificar sinal do rádio
+1.3 - sinal sonoro de aviso de abertura
+1.4 - sinal luminoso de aviso de abertura
+1.5 - abrir fechadura
+1.6 - ligar motor
+1.7 - monitorar sensor de fim de curso de abertura
+1.8 - desligar motor
+
+1 - fechamento
+1.1 - receber sinal do rádio
+1.2 - decodificar sinal do rádio
+1.3 - sinal sonoro de aviso de fechamento
+1.4 - sinal luminoso de aviso de fechamento
+1.5 - ligar motor
+1.6 - monitorar sensor de fim de curso de fechamento
+1.7 - desligar motor
+1.8 - fechar fechadura
+
+
