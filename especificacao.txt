@@ -23,4 +23,13 @@ Items:
 1.7 - desligar motor
 1.8 - fechar fechadura
 
+2 - Dispositivos ligados à placa
+2.1 - motor (to up and down the door)
+2.2 - fechadura (para travar o portão na posição fechado)
+2.3 - rádio (para receber sinal de abertura e/ou fechamento)
+2.4 - relé para acionar a fechadura
+2.5 - relé para acionar o sinaleiro(obrigado pela prefeitura)
+2.6 - relé para ligar luz vigia da garagem
+2.7 - relé para ligar luz da calçada
+
 
