@@ -32,4 +32,33 @@ Items:
 2.6 - relé para ligar luz vigia da garagem
 2.7 - relé para ligar luz da calçada
 
+Caracteristicas da placa
+ESP8266 - NODEMCU Lolin
+
+O NodeMCU v3 Lolin WiFi ESP8266 ESP-12E possui uma ótima relação custo x benefício.
+
+Especificações:
+
+- Modelo: NodeMCU v3 Lolin
+- Controlador: ESP8266 ESP-12E
+- Tensão de operação: 4,5V - 9VDC
+- Nível lógico: 3.3V (não tolerante a 5V)
+- Corrente de operação: 270mA
+- Portas digitais (GPIO): 11
+- Entrada analógica (ADC): 1 (limitado a 1,8V)
+- GPIO: função PWM, I2C e SPI
+- Pinos UART: 2
+- Suporte a redes: 802.11 b/g/n
+- Potência de saída: +20dBm no modo 802.11b
+- Antena embutida
+- Conexão micro USB (alimentação e programação)
+- Suporta alimentação externa através do pino VIN
+- Alcance: ~90m
+- Taxa de dados: 110 - 460800bps
+- Processador: Arm 32 bits
+- Comunicação: TCP IP
+- Criptografia: WEP, WPA, TKIP, AES
+- Modo de operação: STA / AP / STA+AP
+- Dimensões: 25mm(L) X 19mm(A) X 49mm(C)
+- Peso: 8g
 
