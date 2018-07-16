@@ -117,15 +117,6 @@ void setup(void){
   WiFi.begin(ssid, password);
   Serial.println("");
 
-
-
-
-
-
-
-
-
-
   // by default, we'll generate the high voltage from the 3.3v line internally! (neat!)
   //display.begin(SSD1306_SWITCHCAPVCC, 0x3D);      // initialize with the I2C addr 0x3D (for the 128x64)
   display.begin(SSD1306_SWITCHCAPVCC, 0x78>>1);     // init done
@@ -174,8 +165,6 @@ void setup(void){
   Serial.print("Soft-AP IP address = ");
   Serial.println(WiFi.softAPIP());
 
- 
-
   display.clearDisplay();    
   display.setTextSize(1);       display.setTextColor(WHITE);  
   display.setCursor(0,0);       display.println(ssid);  
@@ -184,8 +173,6 @@ void setup(void){
   //display.setCursor(0,36);      display.println(WiFi.localIP());
   
   display.display();
-
-  
 
   if (MDNS.begin("esp8266")) {
     Serial.println("MDNS responder started");
