@@ -5,7 +5,9 @@ Items:
 
 1 - abertura
 1.1 - receber sinal do rádio
+1.1.1 - receber sinal via tcp-ip
 1.2 - decodificar sinal do rádio
+1.2.1 - decodificar dado recebido via tcp-ip
 1.3 - sinal sonoro de aviso de abertura
 1.4 - sinal luminoso de aviso de abertura
 1.5 - abrir fechadura
